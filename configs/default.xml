@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<configuration>
+    <feature automatic="selected" name="Grafos"/>
+    <feature automatic="selected" name="Crear_Grafo"/>
+    <feature automatic="selected" name="Nodos"/>
+    <feature automatic="selected" name="Arcos"/>
+    <feature automatic="selected" name="Peso"/>
+    <feature automatic="unselected" name="SinPeso"/>
+    <feature manual="selected" name="ConPeso"/>
+    <feature automatic="selected" manual="selected" name="Dirigido"/>
+    <feature manual="selected" name="NoDirigido"/>
+    <feature automatic="unselected" name="Direccion"/>
+    <feature automatic="selected" manual="selected" name="Busqueda"/>
+    <feature automatic="unselected" name="DFS"/>
+    <feature manual="selected" name="BFS"/>
+</configuration>
